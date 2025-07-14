@@ -13,7 +13,7 @@ load_dotenv()
 # ───────────── CONFIG ──────────────
 CLIENT_ID     = os.getenv('CLIENT_ID')
 CLIENT_SECRET = os.getenv('CLIENT_SECRET')
-USER_AGENT    = "script:reddit_persona_builder:v1.0 (by u/YourRedditUsername)"
+USER_AGENT    = "script:reddit_persona_builder:v1.0 (by u/Flashy-Guest6138)"
 HF_TOKEN      = os.getenv("HF_API")  # set: export HF_TOKEN=hf_...
 ROUTER_URL    = "https://router.huggingface.co/novita/v3/openai/chat/completions"
 MODEL_NAME    = "mistralai/mistral-7b-instruct"
