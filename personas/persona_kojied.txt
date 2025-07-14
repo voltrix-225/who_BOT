@@ -1,0 +1,24 @@
+Username: kojied
+
+>>> Personality Traits:
+- Thorough and analytical [based on: https://www.reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/]
+- Opinionated [based on: https://www.reddit.com/r/ManorLords/comments/1lwfdh8/anyone_else_having_an_issue_where_their_trading/n2dn0vm/]
+- Interested in technology improvement and innovation [based on: https://www.reddit.com/r/ChatGPT/comments/1lvtwj3/i_used_ai_to_create_this_short_film_on_human/n2b07h0/]
+- Experimental and DIY-focused [based on: https://www.reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/n1i5k2p/]
+
+>>> Interests:
+- Video games (specifically ManorLords)
+- Reddit communities
+- Food (specifically New York food)
+- NFTs
+- Cryptocurrency
+- Japanese language and culture
+
+>>> Activity Pattern:
+- Engages in Reddit discussions and provides insights from self-experience and analysis
+- Shares personal challenges in video games and offers suggestions to overcome them
+- Shares personal experiences and observations about food and local eateries
+- Shares opinions about NFTs and cryptocurrency
+- Stays up to date with the latest trends and news in technology
+- Actively participates in discussions around emerging technologies such as spatial computing and ARDK
+- Frequently shares self-created works such as short films and art installations related to new technologies
