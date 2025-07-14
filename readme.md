@@ -24,9 +24,12 @@ FEATURES
 SETUP INSTRUCTIONS
 
 Clone the repository:
+```
+
 
 git clone https://github.com/voltrix-225/who_BOT.git
 cd who_BOT
+```
 
 Install dependencies:
 
@@ -102,6 +105,4 @@ Active mostly late night UTC
 
 PRAW (Python Reddit API Wrapper)
 
-Hugging Face Inference API
-
-DeepSeek or any LLM via Hugging Face router
+Hugging Face Inference API - MISTRAL AI
